@@ -11,6 +11,8 @@ import android.widget.Toast;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
+
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText edName, edSecondName, edEmail;
